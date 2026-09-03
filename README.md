@@ -1,7 +1,7 @@
 # databricks-sales-project
 
 this project demonstrates:
--databricks
--pyspark
--delta lake
--git Integration
+- databricks
+- pyspark
+- delta lake
+- git Integration
