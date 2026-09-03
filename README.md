@@ -2,7 +2,7 @@
 
 this project demonstrates:
 
-TOPICS
+**TOPICS**
 
 - databricks
 - pyspark
